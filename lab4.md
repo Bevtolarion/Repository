@@ -5,6 +5,7 @@
 docker run -d nginx 
 
 Создал контейнер с nginx образом
+
 После чего я создал dockerfile, используя 
 echo $null dockerfile
 И
